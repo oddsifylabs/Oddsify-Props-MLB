@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# SQLite Database
+*.db
+.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# User Config
+.pitcher-ks/
+~/.pitcher-ks/
+
+# Cache
+.cache/
+*.cache
